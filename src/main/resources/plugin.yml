@@ -1,0 +1,4 @@
+name: Asd
+version: '${project.version}'
+main: first_plugin.asd.Asd
+api-version: 1.18
